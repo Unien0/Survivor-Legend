@@ -35,6 +35,8 @@ MonoBehaviour:
     - Cinemachine
     - Edgar.Unity
     - Edgar.Unity.Examples
+    - Fungus
+    - FungusExamples
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
