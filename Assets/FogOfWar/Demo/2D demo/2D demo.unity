@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b1afdc8801548c4cab37872782c6e11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FogType: 1
+  FogType: 0
   AllowBleeding: 0
   UsingSoftening: 0
   EdgeSoftenDistance: 0
@@ -162,8 +162,8 @@ MonoBehaviour:
   FogFade: 0
   BlendType: 0
   FogFadePower: 1
-  FogAppearance: 3
-  UnknownColor: {r: 0.35, g: 0.35, b: 0.35, a: 1}
+  FogAppearance: 0
+  UnknownColor: {r: 0.16037738, g: 0.16037738, b: 0.16037738, a: 1}
   SaturationStrength: 0
   BlurStrength: 1
   BlurDistanceScreenPercentMin: 0.1
@@ -173,7 +173,7 @@ MonoBehaviour:
   FogTextureTiling: {x: 0.1, y: 0.1}
   FogScrollSpeed: 0
   LineThickness: 0.1
-  FOWSamplingMode: 1
+  FOWSamplingMode: 0
   UseRegrow: 1
   FogRegrowSpeed: 0.5
   InitialFogExplorationValue: 0
@@ -570,7 +570,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 619394800}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Script: {fileID: 0}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &619394802
